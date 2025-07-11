@@ -1,0 +1,15 @@
+# Frontend
+frontend/partner-signup-react/node_modules/
+frontend/partner-signup-react/build/
+frontend/partner-signup-react/.env
+
+# Backend
+backend/partner-back/.idea/
+backend/partner-back/.gradle/
+backend/partner-back/out/
+backend/partner-back/build/
+backend/partner-back/*.iml
+backend/partner-back/src/main/resources/application.properties
+
+# macOS
+.DS_Store
